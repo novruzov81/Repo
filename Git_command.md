@@ -45,3 +45,8 @@
 
     git branch -d branch_name
 
+Увидеть лог коммитов с визуализацией
+
+    git log -- graph
+
+    
