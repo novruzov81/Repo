@@ -49,3 +49,4 @@
 
     git log -- graph
 
+Conflict
