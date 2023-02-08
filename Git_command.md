@@ -49,3 +49,6 @@
 
     git log -- graph
 
+Справка по всем командам
+
+    git help
