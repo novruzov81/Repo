@@ -1,3 +1,3 @@
 #Conflict
 
-this row is in master
+this row is in conf + master
