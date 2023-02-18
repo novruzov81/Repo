@@ -57,3 +57,10 @@
 
     git clone
 
+Отправить репозиторий на GitHub
+
+    git clone
+
+Обновления всех веток
+
+    git pull
